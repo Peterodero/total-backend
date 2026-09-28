@@ -1,0 +1,10 @@
+node_modules/
+.env
+*.log
+.DS_Store
+dist/
+
+.env.example
+
+SustainabALL_API.postman_collection.json
+reg.json
